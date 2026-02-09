@@ -1,0 +1,28 @@
+/* Write your code here. */
+.app-container {
+  min-height: 100vh;
+  background-color: #f1f5f8;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: 'Roboto';
+}
+
+.faqs-container {
+  background-color: #ffffff;
+  width: 90%;
+  max-width: 800px;
+  padding: 30px;
+  border-radius: 12px;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+}
+
+.faqs-heading {
+  text-align: center;
+  color: #cb8805;
+}
+
+.faqs-list {
+  list-style-type: none;
+  padding: 0;
+}
